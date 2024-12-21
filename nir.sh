@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "niranjan"
+echo "niranjan kandula"
