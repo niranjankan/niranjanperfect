@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "niranjan kandula kadapa"
+echo "niranjan kandula kadapa pedda darga"
